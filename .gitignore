@@ -74,6 +74,8 @@ docs/_build/
 # PyBuilder
 .pybuilder/
 target/
+Binary_Class_Challenge/Dataset
+Multi_Class_Challenge/Dataset
 
 # Jupyter Notebook
 .ipynb_checkpoints
