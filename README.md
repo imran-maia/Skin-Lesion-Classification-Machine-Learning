@@ -7,19 +7,24 @@ Skin lesions pose a significant risk due to their potential to manifest as malig
 
 # Dataset:
 
-Binary Class Challenge (Nevus and Others):
-Training Data   - 1500
-Validation Data - 4000
-Testing Data    - 6000
+**Binary Class Challenge (Nevus and Others):**
+<br>Training Data   - 15195
+<br>Validation Data - 3796
+<br>Testing Data    - 6340
 
-Binary Class Challenge (Melanoma, Basal Cell Carcinomaand, Squamous Cell Carcinoma):
-Training Data   - 5000
-Validation Data - 2000
-Testing Data    - 3000
+**Binary Class Challenge (Melanoma, Basal Cell Carcinoma, and Squamous Cell Carcinoma):**
+<br>Training Data   - 5760
+<br>Validation Data - 1270
+<br>Testing Data    - 2121
 
 # Image Pre-processing:
 
 There are multiple preprocessing techniques have been used including hair removal, cropping the black vintage region, and contrast enhancement (gamma correction).
+<br><br>
+![image](https://github.com/imran-maia/Skin-Lesion-Classification-Machine-Learning/assets/122020364/1144ac95-165d-4f8c-adda-6bf5e7bbc934)
+
+
+
 
 # Features Extraction:
 
