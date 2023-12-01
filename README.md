@@ -1,5 +1,5 @@
 # Skin-Lesion-Classification-Machine-Learning
-The MAIA CADx Skin Lesion Classification Challenge using Machine Learning was organised by the consortium of the Erasmus Mundus Joint Master in Medical Imaging and Applications at the University of Girona in Spain.
+The MAIA CADx Skin Lesion Classification Challenge using Machine Learning was organised by the consortium of the Erasmus Mundus Joint Master in Medical Imaging and Applications at the University of Girona in Spain. 
 
 # Abstract:
 
@@ -39,3 +39,5 @@ Feature engineering techniques such as Principal Component Analysis (PCA), K-bes
 Two different approaches of machine learning classification have been used for example independent classifiers and ensemble method. 
 
 K-Nearest Neighbour, Support Vector Machine, Random Forest, XGBoost, and Extra Trees machine learning classifier have been used independently and also as an ensemble. In the case of the ensemble method, stacking and majority voting (hard voting, soft voting) have been used.
+
+**We secured the second position in the binary classification challenge with an accuracy of 0.8590**
