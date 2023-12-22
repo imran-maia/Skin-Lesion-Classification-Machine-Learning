@@ -12,7 +12,7 @@ Skin lesions pose a significant risk due to their potential to manifest as malig
 <br>Validation Data - 3796
 <br>Testing Data    - 6340
 
-**Binary Class Challenge (Melanoma, Basal Cell Carcinoma, and Squamous Cell Carcinoma):**
+**Multi Class Challenge (Melanoma, Basal Cell Carcinoma, and Squamous Cell Carcinoma):**
 <br>Training Data   - 5760
 <br>Validation Data - 1270
 <br>Testing Data    - 2121
