@@ -41,3 +41,5 @@ Two different approaches of machine learning classification have been used for e
 K-Nearest Neighbour, Support Vector Machine, Random Forest, XGBoost, and Extra Trees machine learning classifier have been used independently and also as an ensemble. In the case of the ensemble method, stacking and majority voting (hard voting, soft voting) have been used.
 
 **We secured the second position in the binary classification challenge with an accuracy of 0.8590**
+
+- The implementation of Skin Lesion Classification USing Deep Learning is [here](https://github.com/imran-maia/Skin-Lesion-Classification-Deep-Learning).
